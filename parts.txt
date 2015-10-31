@@ -1,0 +1,38 @@
+1A Steckbruecken fuers Steckbrett
+1B Pfostenbuchse fuer Flachbandkabel schneidklemm 10pol
+1C Wannenstecker 10pol
+1D Transistor BC547C
+1E Linearregler TS317/LM317 TO220
+1F Elko 47uF 63V
+1G Kerko 100nF
+1H Kerko 1nF SMD
+1I Kerko 2,2nF
+1J Widerstand 0Ohm SMD
+1K Elko 470uF 25V
+1L Non-Isolated DC/DC Converters 2.25A PTH08080WAZ
+1M Non-Isolated DC/DC Converters 6A 2.2-5.5V PTH08T230WAZ
+1N unbekannte Handykontaktleiste
+1O Elko 4,7uF 63V
+1P Elko 4,7uF 50V
+1Q Kerko 220pF
+1R Poti 4k7 Print
+1S Widerstand SMD 220Ohm
+1T Widerstand SMD 47Ohm
+1U Widerstand SMD 470Ohm
+1V ZF Bandfilter gelb
+1W Quarz 8,0MHz
+1X Elko 470uF 63V
+1Y Elko 220uF 63V
+1Z Buchsenleiste Print 2x17
+2A
+2B Muttern M5
+2C Thyristor 5A/400V, TO-220 TIC106D
+2D Buchsenleiste Print 2x10
+2E Transistor BC549C
+2F Linearregler 2.2A 6V TO220 KA7806
+2G CNY17-2 Optokoppler
+2H Tantal 10uF 16V
+2I Tantal 22uF 16V
+2J Diode 1N4148 SMD
+
+	
